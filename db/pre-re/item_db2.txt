@@ -1,0 +1,669 @@
+//Big Pet Pack by Najara
+30000,Scorpion Egg,Scorpion Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30001,Hornet Egg,Hornet Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30002,Familiar Egg,Familiar Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30003,Fabre Egg,Fabre Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30004,Pupa Egg,Pupa Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30005,Condor Egg,Condor Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30006,Willow Egg,Willow Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30007,Roda Frog Egg,Roda Frog Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30008,Wolf Egg,Wolf Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30009,Zombie Egg,Zombie Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30010,Archer Skeleton Egg,Archer Skeleton Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30011,Creamy Egg,Creamy Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30012,Mandragora Egg,Mandragora Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30013,Wormtail Egg,Wormtail Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30014,Boa Egg,Boa Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30015,Soldier Skeleton Egg,Soldier Skeleton Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30016,Anacondaq Egg,Anacondaq Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30017,Verit Egg,Verit Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30018,Elder Willow Egg,Elder Willow Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30019,Thara Frog Egg,Thara Frog Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30020,Ghoul Egg,Ghoul Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30021,Side Winder Egg,Side Winder Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30022,Osiris Egg,Osiris Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30023,Baphomet Egg,Baphomet Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30024,Golem Egg,Golem Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30025,Mummy Egg,Mummy Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30026,Obeaune Egg,Obeaune Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30027,Marc Egg,Marc Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30028,Doppelganger Egg,Doppelganger Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30029,Peco Peco Egg Egg,Peco Peco Egg Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30030,Thief Bug Egg Egg,Thief Bug Egg Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30031,Thief Bug Egg,Thief Bug Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30032,Thief Bug Female Egg,Thief Bug Female Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30033,Thief Bug Male Egg,Thief Bug Male Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30034,Muka Egg,Muka Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30035,Metaller Egg,Metaller Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30036,Mistress Egg,Mistress Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30037,Bigfoot Egg,Bigfoot Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30038,Nightmare Egg,Nightmare Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30039,Santa Poring Egg,Santa Poring Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30040,Megalodon Egg,Megalodon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30041,Strouf Egg,Strouf Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30042,Vadon Egg,Vadon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30043,Cornutus Egg,Cornutus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30044,Hydra Egg,Hydra Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30045,Swordfish Egg,Swordfish Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30046,Kukre Egg,Kukre Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30047,Pirate Skeleton Egg,Pirate Skeleton Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30048,Kaho Egg,Kaho Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30049,Crab Egg,Crab Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30050,Shellfish Egg,Shellfish Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30051,Turtle Egg,Turtle Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30052,Skeleton Egg,Skeleton Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30053,Red Plant Egg,Red Plant Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30054,Blue Plant Egg,Blue Plant Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30055,Green Plant Egg,Green Plant Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30056,Yellow Plant Egg,Yellow Plant Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30057,White Plant Egg,White Plant Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30058,Shining Plant Egg,Shining Plant Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30059,Black Mushroom Egg,Black Mushroom Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30060,Red Mushroom Egg,Red Mushroom Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30061,Golden Thief Bug Egg,Golden Thief Bug Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30062,Orc Hero Egg,Orc Hero Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30063,Vocal Egg,Vocal Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30064,Toad Egg,Toad Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30065,Mastering Egg,Mastering Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30066,Dragon Fly Egg,Dragon Fly Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30067,Vagabond Wolf Egg,Vagabond Wolf Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30068,Eclipse Egg,Eclipse Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30069,Ambernite Egg,Ambernite Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30070,Andre Egg,Andre Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30071,Angeling Egg,Angeling Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30072,Ant Egg Egg,Ant Egg Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30073,Anubis Egg,Anubis Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30074,Argiope Egg,Argiope Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30075,Argos Egg,Argos Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30076,Bathory Egg,Bathory Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30077,Caramel Egg,Caramel Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30078,Coco Egg,Coco Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30079,Deniro Egg,Deniro Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30080,Desert Wolf Egg,Desert Wolf Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30081,Deviace Egg,Deviace Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30082,Drainliar Egg,Drainliar Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30083,Drake Egg,Drake Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30084,Dustiness Egg,Dustiness Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30085,Eddga Egg,Eddga Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30086,Eggyra Egg,Eggyra Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30087,Evil Druid Egg,Evil Druid Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30088,Flora Egg,Flora Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30089,Frilldora Egg,Frilldora Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30090,Ghostring Egg,Ghostring Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30091,Giearth Egg,Giearth Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30092,Goblin Egg,Goblin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30093,Goblin Egg,Goblin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30094,Hode Egg,Hode Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30095,Horn Egg,Horn Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30096,Horong Egg,Horong Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30097,Jakk Egg,Jakk Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30098,Joker Egg,Joker Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30099,Khalitzburg Egg,Khalitzburg Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30100,Kobold Egg,Kobold Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30101,Kobold Egg,Kobold Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30102,Kobold Egg,Kobold Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30103,Magnolia Egg,Magnolia Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30104,Mantis Egg,Mantis Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30105,Marduk Egg,Marduk Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30106,Marina Egg,Marina Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30107,Marine Sphere Egg,Marine Sphere Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30108,Marionette Egg,Marionette Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30109,Marse Egg,Marse Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30110,Martin Egg,Martin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30111,Matyr Egg,Matyr Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30112,Maya Egg,Maya Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30113,Medusa Egg,Medusa Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30114,Minorous Egg,Minorous Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30115,Moonlight Flower Egg,Moonlight Flower Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30116,Myst Egg,Myst Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30117,Orc Skeleton Egg,Orc Skeleton Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30118,Orc Zombie Egg,Orc Zombie Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30119,Pasana Egg,Pasana Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30120,Pharaoh Egg,Pharaoh Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30121,Phen Egg,Phen Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30122,Phreeoni Egg,Phreeoni Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30123,Piere Egg,Piere Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30124,Plankton Egg,Plankton Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30125,Rafflesia Egg,Rafflesia Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30126,Raydric Egg,Raydric Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30127,Requiem Egg,Requiem Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30128,Sandman Egg,Sandman Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30129,Savage Egg,Savage Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30130,Skeleton Worker Egg,Skeleton Worker Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30131,Stainer Egg,Stainer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30132,Tarou Egg,Tarou Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30133,Vitata Egg,Vitata Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30134,Zenorc Egg,Zenorc Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30135,Zerom Egg,Zerom Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30136,Whisper Egg,Whisper Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30137,Nine Tail Egg,Nine Tail Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30138,Thief Mushroom Egg,Thief Mushroom Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30139,Chonchon Egg,Chonchon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30140,Fabre Egg,Fabre Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30141,Whisper Egg,Whisper Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30142,Giant Whisper Egg,Giant Whisper Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30143,Switch Egg,Switch Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30144,Orc Archer Egg,Orc Archer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30145,Orc Lord Egg,Orc Lord Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30146,Mimic Egg,Mimic Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30147,Wraith Egg,Wraith Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30148,Alarm Egg,Alarm Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30149,Arclouze Egg,Arclouze Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30150,Rideword Egg,Rideword Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30151,Skeleton Prisoner Egg,Skeleton Prisoner Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30152,Zombie Prisoner Egg,Zombie Prisoner Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30153,Dark Priest Egg,Dark Priest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30154,Punk Egg,Punk Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30155,Rybio Egg,Rybio Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30156,Phendark Egg,Phendark Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30157,Mysteltainn Egg,Mysteltainn Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30158,Ogretooth Egg,Ogretooth Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30159,Executioner Egg,Executioner Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30160,Anolian Egg,Anolian Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30161,Sting Egg,Sting Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30162,Cramp Egg,Cramp Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30163,Brilight Egg,Brilight Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30164,Iron Fist Egg,Iron Fist Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30165,High Orc Egg,High Orc Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30166,Choco Egg,Choco Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30167,Stem Worm Egg,Stem Worm Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30168,Penomena Egg,Penomena Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30169,Abysmal Knight Egg,Abysmal Knight Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30170,Desert Wolf Egg,Desert Wolf Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30171,Savage Egg,Savage Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30172,High Orc Egg,High Orc Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30173,Poison Spore Egg,Poison Spore Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30174,Choco Egg,Choco Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30175,Kobold Egg,Kobold Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30176,Goblin Egg,Goblin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30177,Phen Egg,Phen Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30178,Fabre Egg,Fabre Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30179,Pupa Egg,Pupa Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30180,Creamy Egg,Creamy Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30181,Peco Peco Egg Egg,Peco Peco Egg Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30182,Peco Peco Egg,Peco Peco Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30183,Yoyo Egg,Yoyo Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30184,Smoking Orc Egg,Smoking Orc Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30185,Ant Egg Egg,Ant Egg Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30186,Andre Egg,Andre Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30187,Piere Egg,Piere Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30188,Deniro Egg,Deniro Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30189,Picky Egg,Picky Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30190,Picky Egg,Picky Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30191,Marin Egg,Marin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30192,Sasquatch Egg,Sasquatch Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30193,Christmas Jakk Egg,Christmas Jakk Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30194,Christmas Cookie Egg,Christmas Cookie Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30195,Antonio Egg,Antonio Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30196,Cruiser Egg,Cruiser Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30197,Myst Case Egg,Myst Case Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30198,Chepet Egg,Chepet Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30199,Stormy Knight Egg,Stormy Knight Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30200,Garm Egg,Garm Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30201,Gargoyle Egg,Gargoyle Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30202,Raggler Egg,Raggler Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30203,Nereid Egg,Nereid Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30204,Pest Egg,Pest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30205,Injustice Egg,Injustice Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30206,Goblin Archer Egg,Goblin Archer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30207,Gryphon Egg,Gryphon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30208,Dark Frame Egg,Dark Frame Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30209,Wild Rose Egg,Wild Rose Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30210,Mutant Dragonoid Egg,Mutant Dragonoid Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30211,Wind Ghost Egg,Wind Ghost Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30212,Merman Egg,Merman Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30213,Cookie Egg,Cookie Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30214,Aster Egg,Aster Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30215,Carat Egg,Carat Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30216,Bloody Knight Egg,Bloody Knight Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30217,Clock Egg,Clock Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30218,Clock Tower Manager Egg,Clock Tower Manager Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30219,Alligator Egg,Alligator Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30220,Dark Lord Egg,Dark Lord Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30221,Orc Lady Egg,Orc Lady Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30222,Megalith Egg,Megalith Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30223,Raydric Archer Egg,Raydric Archer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30224,Greatest General Egg,Greatest General Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30225,Stalactic Golem Egg,Stalactic Golem Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30226,Tri Joint Egg,Tri Joint Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30227,Goblin Steamrider Egg,Goblin Steamrider Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30228,Sage Worm Egg,Sage Worm Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30229,Kobold Archer Egg,Kobold Archer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30230,Chimera Egg,Chimera Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30231,Archer Guardian Egg,Archer Guardian Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30232,Knight Guardian Egg,Knight Guardian Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30233,Soldier Guardian Egg,Soldier Guardian Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30234,Emperium Egg,Emperium Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30235,Maya Purple Egg,Maya Purple Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30236,Skeleton General Egg,Skeleton General Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30237,Wraith Dead Egg,Wraith Dead Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30238,Mini Demon Egg,Mini Demon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30239,Creamy Fear Egg,Creamy Fear Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30240,Killer Mantis Egg,Killer Mantis Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30241,Owl Baron Egg,Owl Baron Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30242,Kobold Leader Egg,Kobold Leader Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30243,Ancient Mummy Egg,Ancient Mummy Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30244,Zombie Master Egg,Zombie Master Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30245,Goblin Leader Egg,Goblin Leader Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30246,Caterpillar Egg,Caterpillar Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30247,Am Mut Egg,Am Mut Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30248,Dark Illusion Egg,Dark Illusion Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30249,Giant Hornet Egg,Giant Hornet Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30250,Giant Spider Egg,Giant Spider Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30251,Ancient Worm Egg,Ancient Worm Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30252,Leib Olmai Egg,Leib Olmai Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30253,Cat o' Nine Tails Egg,Cat o' Nine Tails Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30254,Panzer Goblin Egg,Panzer Goblin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30255,Gajomart Egg,Gajomart Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30256,Majoruros Egg,Majoruros Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30257,Gullinbursti Egg,Gullinbursti Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30258,Turtle General Egg,Turtle General Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30259,Mobster Egg,Mobster Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30260,Permeter Egg,Permeter Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30261,Assaulter Egg,Assaulter Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30262,Solider Egg,Solider Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30263,Seal Egg,Seal Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30264,Heater Egg,Heater Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30265,Freezer Egg,Freezer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30266,Owl Duke Egg,Owl Duke Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30267,Dragon Tail Egg,Dragon Tail Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30268,Spring Rabbit Egg,Spring Rabbit Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30269,Sea Otter Egg,Sea Otter Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30270,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30271,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30272,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30273,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30274,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30275,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30276,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30277,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30278,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30279,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30280,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30281,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30282,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30283,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30284,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30285,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30286,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30287,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30288,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30289,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30290,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30291,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30292,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30293,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30294,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30295,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30296,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30297,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30298,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30299,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30300,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30301,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30302,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30303,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30304,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30305,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30306,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30307,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30308,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30309,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30310,Apocalypse Egg,Apocalypse Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30311,Lava Golem Egg,Lava Golem Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30312,Blazer Egg,Blazer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30313,Geographer Egg,Geographer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30314,Grand Peco Egg,Grand Peco Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30315,Succubus Egg,Succubus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30316,False Angel Egg,False Angel Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30317,Goat Egg,Goat Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30318,Lord of the Dead Egg,Lord of the Dead Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30319,Incubus Egg,Incubus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30320,The Paper Egg,The Paper Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30321,Harpy Egg,Harpy Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30322,Elder Egg,Elder Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30323,Demon Pungus Egg,Demon Pungus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30324,Nightmare Terror Egg,Nightmare Terror Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30325,Driller Egg,Driller Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30326,Grizzly Egg,Grizzly Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30327,Explosion Egg,Explosion Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30328,Sleeper Egg,Sleeper Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30329,Gig Egg,Gig Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30330,Arc Angeling Egg,Arc Angeling Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30331,Dracula Egg,Dracula Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30332,Violy Egg,Violy Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30333,Galapago Egg,Galapago Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30334,Rotar Zairo Egg,Rotar Zairo Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30335,Wind Crystal Egg,Wind Crystal Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30336,Earth Crystal Egg,Earth Crystal Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30337,Fire Crystal Egg,Fire Crystal Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30338,Water Crystal Egg,Water Crystal Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30339,Baphomet Egg,Baphomet Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30340,Karakasa Egg,Karakasa Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30341,Shinobi Egg,Shinobi Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30342,Poison Toad Egg,Poison Toad Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30343,Firelock Soldier Egg,Firelock Soldier Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30344,Miyabi Doll Egg,Miyabi Doll Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30345,Tengu Egg,Tengu Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30346,Kapha Egg,Kapha Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30347,Bloody Butterfly Egg,Bloody Butterfly Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30348,Dumpling Child Egg,Dumpling Child Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30349,Enchanted Peach Tree Egg,Enchanted Peach Tree Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30350,Taoist Hermit Egg,Taoist Hermit Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30351,Hermit Plant Egg,Hermit Plant Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30352,Baby Leopard Egg,Baby Leopard Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30353,Evil Nymph Egg,Evil Nymph Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30354,Zipper Bear Egg,Zipper Bear Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30355,Evil Snake Lord Egg,Evil Snake Lord Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30356,Samurai Specter Egg,Samurai Specter Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30357,Dryad Egg,Dryad Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30358,Beetle King Egg,Beetle King Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30359,Stone Shooter Egg,Stone Shooter Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30360,Wooden Golem Egg,Wooden Golem Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30361,Wootan Shooter Egg,Wootan Shooter Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30362,Wootan Fighter Egg,Wootan Fighter Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30363,Parasite Egg,Parasite Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30364,Bring it on! Egg,Bring it on! Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30365,Gibbet Egg,Gibbet Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30366,Dullahan Egg,Dullahan Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30367,Loli Ruri Egg,Loli Ruri Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30368,Disguise Egg,Disguise Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30369,Bloody Murderer Egg,Bloody Murderer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30370,Quve Egg,Quve Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30371,Lude Egg,Lude Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30372,Heirozoist Egg,Heirozoist Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30373,Amon Ra Egg,Amon Ra Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30374,Yao Jun Egg,Yao Jun Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30375,Mao Guai Egg,Mao Guai Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30376,Zhu Po Long Egg,Zhu Po Long Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30377,Garm Baby Egg,Garm Baby Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30378,Mi Gao Egg,Mi Gao Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30379,Jing Guai Egg,Jing Guai Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30380,White Lady Egg,White Lady Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30381,Boiled Rice Egg,Boiled Rice Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30382,Deviling Egg,Deviling Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30383,Tao Gunka Egg,Tao Gunka Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30384,Tamruan Egg,Tamruan Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30385,Mime Monkey Egg,Mime Monkey Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30386,Leaf Cat Egg,Leaf Cat Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30387,Kraben Egg,Kraben Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30388,Christmas Orc Egg,Christmas Orc Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30389,Lunatic Egg,Lunatic Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30390,Gangster Egg,Gangster Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30391,Ancient Mummy Egg,Ancient Mummy Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30392,Munak Egg,Munak Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30393,Bongun Egg,Bongun Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30394,Yao Jun Egg,Yao Jun Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30395,Metaling Egg,Metaling Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30396,Mineral Egg,Mineral Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30397,Obsidian Egg,Obsidian Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30398,Pitman Egg,Pitman Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30399,Old Stove Egg,Old Stove Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30400,Ungoliant Egg,Ungoliant Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30401,Porcellio Egg,Porcellio Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30402,Noxious Egg,Noxious Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30403,Venomous Egg,Venomous Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30404,Teddy Bear Egg,Teddy Bear Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30405,RSX-0806 Egg,RSX-0806 Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30406,Anopheles Egg,Anopheles Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30407,Holden Egg,Holden Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30408,Hill Wind Egg,Hill Wind Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30409,White Lady Egg,White Lady Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30410,Green Maiden Egg,Green Maiden Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30411,Gremlin Egg,Gremlin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30412,Beholder Egg,Beholder Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30413,Seyren Windsor Egg,Seyren Windsor Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30414,Eremes Guile Egg,Eremes Guile Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30415,Howard Alt-Eisen Egg,Howard Alt-Eisen Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30416,Margaretha Sorin Egg,Margaretha Sorin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30417,Cecil Damon Egg,Cecil Damon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30418,Kathryne Keyron Egg,Kathryne Keyron Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30419,Lord Knight Seyren Egg,Lord Knight Seyren Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30420,Assassin Cross Eremes Egg,Assassin Cross Eremes Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30421,Whitesmith Howard Egg,Whitesmith Howard Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30422,High Priest Margaretha Egg,High Priest Margaretha Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30423,Sniper Cecil Egg,Sniper Cecil Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30424,High Wizard Kathryne Egg,High Wizard Kathryne Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30425,Egnigem Cenia Egg,Egnigem Cenia Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30426,Wickebine Tres Egg,Wickebine Tres Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30427,Armeyer Dinze Egg,Armeyer Dinze Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30428,Errende Ebecee Egg,Errende Ebecee Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30429,Kavach Icarus Egg,Kavach Icarus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30430,Laurell Weinder Egg,Laurell Weinder Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30431,Egnigem Cenia Egg,Egnigem Cenia Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30432,Photon Cannon Egg,Photon Cannon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30433,Photon Cannon Egg,Photon Cannon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30434,Photon Cannon Egg,Photon Cannon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30435,Photon Cannon Egg,Photon Cannon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30436,Archdam Egg,Archdam Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30437,Dimik Egg,Dimik Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30438,Dimik Egg,Dimik Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30439,Dimik Egg,Dimik Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30440,Dimik Egg,Dimik Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30441,Dimik Egg,Dimik Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30442,Monemus Egg,Monemus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30443,Venatu Egg,Venatu Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30444,Venatu Egg,Venatu Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30445,Venatu Egg,Venatu Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30446,Venatu Egg,Venatu Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30447,Venatu Egg,Venatu Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30448,Hill Wind Egg,Hill Wind Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30449,Gemini-S58 Egg,Gemini-S58 Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30450,Remover Egg,Remover Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30451,Vesper Egg,Vesper Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30452,Orc Baby Egg,Orc Baby Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30453,Grove Egg,Grove Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30454,Lady Tanee Egg,Lady Tanee Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30455,Breeze Egg,Breeze Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30456,Plasma Egg,Plasma Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30457,Plasma Egg,Plasma Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30458,Plasma Egg,Plasma Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30459,Plasma Egg,Plasma Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30460,Plasma Egg,Plasma Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30461,Death Word Egg,Death Word Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30462,Ancient Mimic Egg,Ancient Mimic Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30463,Dame of Sentinel Egg,Dame of Sentinel Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30464,Mistress of Shelter Egg,Mistress of Shelter Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30465,Retribution Egg,Retribution Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30466,Lady Solace Egg,Lady Solace Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30467,Odium of Thanatos Egg,Odium of Thanatos Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30468,Despero of Thanatos Egg,Despero of Thanatos Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30469,Maero of Thanatos Egg,Maero of Thanatos Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30470,Dolor of Thanatos Egg,Dolor of Thanatos Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30471,Memory of Thanatos Egg,Memory of Thanatos Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30472,Acidus Egg,Acidus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30473,Ferus Egg,Ferus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30474,Novus Egg,Novus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30475,Acidus Egg,Acidus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30476,Ferus Egg,Ferus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30477,Novus Egg,Novus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30478,Detardeurus Egg,Detardeurus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30479,Hydrolancer Egg,Hydrolancer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30480,Dragon Egg Egg,Dragon Egg Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30481,Jakk Egg,Jakk Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30482,Cecil Damon Egg,Cecil Damon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30483,Photon Cannon Egg,Photon Cannon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30484,Poring Egg,Poring Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30485,Lunatic Egg,Lunatic Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30486,Savage Babe Egg,Savage Babe Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30487,Baby Desert Wolf Egg,Baby Desert Wolf Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30488,Baphomet Jr. Egg,Baphomet Jr. Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30489,Deviruchi Egg,Deviruchi Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30490,Kiehl Egg,Kiehl Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30491,Kiel D-01 Egg,Kiel D-01 Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30492,Alicel Egg,Alicel Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30493,Aliot Egg,Aliot Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30494,Aliza Egg,Aliza Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30495,Constant Egg,Constant Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30496,Valkyrie Randgris Egg,Valkyrie Randgris Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30497,Skogul Egg,Skogul Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30498,Frus Egg,Frus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30499,Skeggiold Egg,Skeggiold Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30500,Skeggiold Egg,Skeggiold Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30501,Angeling Egg,Angeling Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30502,Deviling Egg,Deviling Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30503,Gloom Under Night Egg,Gloom Under Night Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30504,Agav Egg,Agav Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30505,Echio Egg,Echio Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30506,Vanberk Egg,Vanberk Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30507,Isilla Egg,Isilla Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30508,Hodremlin Egg,Hodremlin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30509,Seeker Egg,Seeker Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30510,Snowier Egg,Snowier Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30511,Siroma Egg,Siroma Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30512,Ice Titan Egg,Ice Titan Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30513,Gazeti Egg,Gazeti Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30514,Ktullanux Egg,Ktullanux Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30515,Muscipular Egg,Muscipular Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30516,Drosera Egg,Drosera Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30517,Roween Egg,Roween Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30518,Galion Egg,Galion Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30519,Stapo Egg,Stapo Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30520,Atroce Egg,Atroce Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30521,Iceicle Egg,Iceicle Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30522,Soccer Ball Egg,Soccer Ball Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30523,Bloody Knight Egg,Bloody Knight Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30524,Aunoe Egg,Aunoe Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30525,Fanat Egg,Fanat Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30526,Treasure Chest Egg,Treasure Chest Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30527,Lord Knight Seyren Egg,Lord Knight Seyren Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30528,Assassin Cross Eremes Egg,Assassin Cross Eremes Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30529,Mastersmith Howard Egg,Mastersmith Howard Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30530,High Priest Margaretha Egg,High Priest Margaretha Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30531,Sniper Cecil Egg,Sniper Cecil Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30532,High Wizard Kathryne Egg,High Wizard Kathryne Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30533,Delightful Lude Egg,Delightful Lude Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30534,Hydrolancer Egg,Hydrolancer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30535,Moonlight Flower Egg,Moonlight Flower Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30536,Gourd Egg,Gourd Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30537,Detarderous Egg,Detarderous Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30538,Alarm Egg,Alarm Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30539,Bathory Egg,Bathory Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30540,Bigfoot Egg,Bigfoot Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30541,Desert Wolf Egg,Desert Wolf Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30542,Deviruchi Egg,Deviruchi Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30543,Freezer Egg,Freezer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30544,Garm Baby Egg,Garm Baby Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30545,Chistmas Goblin Egg,Chistmas Goblin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30546,Myst Egg,Myst Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30547,Sasquatch Egg,Sasquatch Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30548,Gullinbrusti Egg,Gullinbrusti Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30549,Sword Master Egg,Sword Master Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30550,Bow Master Egg,Bow Master Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30551,Salamander Egg,Salamander Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30552,Ifrit Egg,Ifrit Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30553,Kasa Egg,Kasa Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30554,Magmaring Egg,Magmaring Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30555,Fire Imp Egg,Fire Imp Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30556,Knocker Egg,Knocker Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30557,Byorgue Egg,Byorgue Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30558,Golden Savage Egg,Golden Savage Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30559,Treasure Box Egg,Treasure Box Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30560,Dream Metal Egg,Dream Metal Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30561,Poring Egg,Poring Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30562,Baphomet Egg,Baphomet Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30563,Osiris Egg,Osiris Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30564,Orc Hero Egg,Orc Hero Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30565,Mobster Egg,Mobster Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30566,Angeling Egg,Angeling Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30567,Deviling Egg,Deviling Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30568,Muka Egg,Muka Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30569,Poison Spore Egg,Poison Spore Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30570,Magnolia Egg,Magnolia Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30571,Marin Egg,Marin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30572,Plankton Egg,Plankton Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30573,Mandragora Egg,Mandragora Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30574,Coco Egg,Coco Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30575,Choco Egg,Choco Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30576,Martin Egg,Martin Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30577,Spring Rabbit Egg,Spring Rabbit Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30578,Zombie Slaughter Egg,Zombie Slaughter Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30579,Ragged Zombie Egg,Ragged Zombie Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30580,Hell Poodle Egg,Hell Poodle Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30581,Banshee Egg,Banshee Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30582,Flame Skull Egg,Flame Skull Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30583,Necromancer Egg,Necromancer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30584,Fallen Bishop Hibram Egg,Fallen Bishop Hibram Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30585,Hell Fly Egg,Hell Fly Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30586,Beelzebub Egg,Beelzebub Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30587,Beelzebub Egg,Beelzebub Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30588,Dead King Egg,Dead King Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30589,Lord of the Dead Egg,Lord of the Dead Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30590,Shining Plant Egg,Shining Plant Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30591,Leshij Egg,Leshij Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30592,Mavka Egg,Mavka Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30593,Baba-Yaga Egg,Baba-Yaga Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30594,Kikimora Egg,Kikimora Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30595,Lesavka Egg,Lesavka Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30596,Zmey Gorynych Egg,Zmey Gorynych Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30597,Freezer Egg,Freezer Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30598,Garm Baby Egg,Garm Baby Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30599,Garm Egg,Garm Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30600,Gopinich Egg,Gopinich Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30601,Pouring Egg,Pouring Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30602,Seyren Windsor Egg,Seyren Windsor Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30603,Kathryne Keyron Egg,Kathryne Keyron Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30604,Baphomet Egg,Baphomet Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30605,Sword Guardian Egg,Sword Guardian Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30606,Condor Egg,Condor Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30607,Treasure Box Egg,Treasure Box Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30608,Treasure Box Egg,Treasure Box Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30609,Bomb Poring Egg,Bomb Poring Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30610,Satan Morroc Egg,Satan Morroc Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30611,Satan Morroc Egg,Satan Morroc Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30612,Morroc Shadow Egg,Morroc Shadow Egg (Valkyrie),7,20,0,0,,,,,,,,,,,,,{},{},{}
+30613,Morroc Shadow Egg,Morroc Shadow Egg (Mud Pud),7,20,0,0,,,,,,,,,,,,,{},{},{}
+30614,Morroc Shadow Egg,Morroc Shadow Egg (Crawler),7,20,0,0,,,,,,,,,,,,,{},{},{}
+30615,Morroc Shadow Egg,Morroc Shadow Egg (Blue Ghost),7,20,0,0,,,,,,,,,,,,,{},{},{}
+30616,Naght Seiger Egg,Naght Seiger Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30617,Entweihen Egg,Entweihen Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30619,Dandelion Egg,Dandelion Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30620,Tatacho Egg,Tatacho Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30621,Centipede Egg,Centipede Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30622,Nepenthes Egg,Nepenthes Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30623,Hills Lion Egg,Hills Lion Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30624,Hardrock Mammoth Egg,Hardrock Mammoth Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30625,Tendril Lion Egg,Tendril Lion Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30626,Cornus Egg,Cornus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30627,Naga Egg,Naga Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30628,Luciola Vespa Egg,Luciola Vespa Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30629,Pinguicula Egg,Pinguicula Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30675,Draco Egg,Draco Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30631,Dark Pinguicula Egg,Dark Pinguicula Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30632,Aqua Elemental Egg,Aqua Elemental Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30633,Rata Egg,Rata Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30634,Duneyrr Egg,Duneyrr Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30635,Ancient Tree Egg,Ancient Tree Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30636,Rhyncho Egg,Rhyncho Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30637,Phylla Egg,Phylla Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30638,Nidhoggr's Shadow Egg,Nidhoggr's Shadow Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30639,Dark Shadow Egg,Dark Shadow Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30640,Bradium Golem Egg,Bradium Golem Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30643,Boitata Egg,Boitata Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30644,Iara Egg,Iara Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30645,Piranha Egg,Piranha Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30646,Headless Mule Egg,Headless Mule Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30647,Jaguar Egg,Jaguar Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30648,Toucan Egg,Toucan Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30649,Curupira Egg,Curupira Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30655,One-Horned Scaraba Egg,One-Horned Scaraba Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30656,Two-Horned Scaraba Egg,Two-Horned Scaraba Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30657,Antler Scaraba Egg,Antler Scaraba Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30658,Rake Scaraba Egg,Rake Scaraba Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30659,Scaraba Queen Egg,Scaraba Queen Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30660,Antler Scaraba Egg Egg,Antler Scaraba Egg Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30664,Dolomedes Egg,Dolomedes Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30661,Botaring Egg,Botaring Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30662,Lost Dragon Egg,Lost Dragon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30663,Pom Spider Egg,Pom Spider Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30664,Angra Mantis Egg,Angra Mantis Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30665,Parus Egg,Parus Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30666,Creeper Egg,Creeper Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30667,Little Fatum Egg,Little Fatum Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30668,Miming Egg,Miming Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30669,Watermelon Egg,Watermelon Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30670,Rafflesia Alnoldi Egg,Rafflesia Alnoldi Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30671,Cendrawasih Egg,Cendrawasih Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30672,Banaspaty Egg,Banaspaty Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30673,Butoijo Egg,Butoijo Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}
+30674,Leak Egg,Leak Egg,7,20,0,0,,,,,,,,,,,,,{},{},{}

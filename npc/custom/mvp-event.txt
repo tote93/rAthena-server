@@ -34,7 +34,7 @@ quiz_00,11,111,5	script	MVP Event Manager	403,{
 	
 mvp_Admin:
 	mes @npc$;
-	mes "Hola "+strcharinfo(0)+", que te gustaría hacer?";
+	mes "Hola "+strcharinfo(0)+", que te gustaria hacer?";
 	menu "Iniciar evento MVP",mvp_start,"Nada",endmvp;
 	mvp_start:
 		if ($@mvp_event == 1) goto mvp_started;
@@ -98,7 +98,7 @@ prontera,164,175,3	script	MVP Event Warper	403,{
 
 pront_mvp:
 	mes "[ MVP Event Warper ]";
-	mes "Te transportaré al mapa de eventos MVP.";
+	mes "Te transportare al mapa de eventos MVP.";
 	warp "guild_vs1",50,49;
 	end;
 
@@ -112,30 +112,30 @@ guild_vs1,0,0,0	script	MVP Event	-1,{
 OnStartMVP:
 	donpcevent "mvppvpoff::OnMVPpvpoff";
 	set $@mvp_event,1;
-	announce "El evento MVP ya está abierto",0;
+	announce "El evento MVP ya esta abierto",0;
 	enablenpc "MVP Event Warper";
 	killmonsterall "guild_vs1";
 	initnpctimer;
 	sleep 60000;
-	announce "El evento MVP comenzará automáticamente después de 2 minutos",0;
+	announce "El evento MVP comenzara automaticamente despues de 2 minutos",0;
 	sleep 60000;
-	announce "El evento MVP comenzará automáticamente después de 1 minuto",0;
+	announce "El evento MVP comenzara automaticamente despues de 1 minuto",0;
 	sleep 30000;
-	announce "El evento MVP está comenzando en 30s",0;
+	announce "El evento MVP esta comenzando en 30s",0;
 	sleep 30000;
-	announce "El evento MVP está comenzando en 5",0;
+	announce "El evento MVP esta comenzando en 5",0;
 	sleep 1000;
-	announce "El evento MVP está comenzando en 4",0;
+	announce "El evento MVP esta comenzando en 4",0;
 	sleep 1000;
-	announce "El evento MVP está comenzando en 3",0;
+	announce "El evento MVP esta comenzando en 3",0;
 	sleep 1000;
-	announce "El evento MVP está comenzando en 2",0;
+	announce "El evento MVP esta comenzando en 2",0;
 	sleep 1000;
-	announce "El evento MVP está comenzando en 1",0;
+	announce "El evento MVP esta comenzando en 1",0;
 	sleep 1000;
-	announce "The event warper está cerrado",0;
+	announce "The event warper esta cerrado",0;
 	sleep 10000;
-	mapannounce "guild_vs1","Evento MVP: La ronda 1 comenzará en breve.",0;
+	mapannounce "guild_vs1","Evento MVP: La ronda 1 comenzara en breve.",0;
 	sleep 5000;
 	set $@mvp_event,0;
 	goto Onmvp_round1;
@@ -156,7 +156,7 @@ Onmvp_round1:
 Onmvpdead:
 	set $@mobmvp,$@mobmvp - 1;
 	if($@mobmvp <= 0) {
-		mapannounce "guild_vs1","Evento MVP: La ronda 2 comenzará en breve.",0;
+		mapannounce "guild_vs1","Evento MVP: La ronda 2 comenzara en breve.",0;
 		sleep2 5000;
 		goto Onmvp_round2;
 	}
@@ -173,7 +173,7 @@ Onmvp_round2:
 Onmvpdead2:
 	set $@mobmvp,$@mobmvp - 1;
 	if($@mobmvp <= 0) {
-		mapannounce "guild_vs1","Evento MVP: La ronda 3 comenzará en breve.",0;
+		mapannounce "guild_vs1","Evento MVP: La ronda 3 comenzara en breve.",0;
 		sleep2 5000;
 		goto Onmvp_round3;
 	}
@@ -190,7 +190,7 @@ Onmvp_round3:
 Onmvpdead3:
 	set $@mobmvp,$@mobmvp - 1;
 	if($@mobmvp <= 0) {
-		mapannounce "guild_vs1","Evento MVP: La ronda 4 comenzará en breve.",0;
+		mapannounce "guild_vs1","Evento MVP: La ronda 4 comenzara en breve.",0;
 		sleep2 5000;
 		goto Onmvp_round4;
 	}
@@ -207,7 +207,7 @@ Onmvp_round4:
 Onmvpdead4:
 	set $@mobmvp,$@mobmvp - 1;
 	if($@mobmvp <= 0) {
-		mapannounce "guild_vs1","Evento MVP: La ronda 5 comenzará en breve.",0;
+		mapannounce "guild_vs1","Evento MVP: La ronda 5 comenzara en breve.",0;
 		sleep2 5000;
 		goto Onmvp_round5;
 	}
@@ -226,7 +226,7 @@ Onmvp_round5:
 Onmvpdead5:
 	set $@mobmvp,$@mobmvp - 1;
 	if($@mobmvp <= 0) {
-		mapannounce "guild_vs1","Evento MVP: la ronda 6 comenzará en breve.",0;
+		mapannounce "guild_vs1","Evento MVP: la ronda 6 comenzara en breve.",0;
 		sleep2 5000;
 		goto Onmvp_round6;
 	}
@@ -244,7 +244,7 @@ Onmvp_round6:
 Onmvpdead6:
 	set $@mobmvp,$@mobmvp - 1;
 	if($@mobmvp <= 0) {
-		mapannounce "guild_vs1","Evento MVP: la ronda 7 comenzará en breve.",0;
+		mapannounce "guild_vs1","Evento MVP: la ronda 7 comenzara en breve.",0;
 		sleep2 5000;
 		goto Onmvp_round7;
 	}
@@ -261,7 +261,7 @@ Onmvp_round7:
 Onmvpdead7:
 	set $@mobmvp,$@mobmvp - 1;
 	if($@mobmvp <= 0) {
-		mapannounce "guild_vs1","Evento MVP: la ronda 8 comenzará en breve.",0;
+		mapannounce "guild_vs1","Evento MVP: la ronda 8 comenzara en breve.",0;
 		sleep2 5000;
 		goto Onmvp_round8;
 	}
@@ -278,7 +278,7 @@ Onmvp_round8:
 Onmvpdead8:
 	set $@mobmvp,$@mobmvp - 1;
 	if($@mobmvp <= 0) {
-		mapannounce "guild_vs1","Evento MVP: La ronda final comenzará en breve.",0;
+		mapannounce "guild_vs1","Evento MVP: La ronda final comenzara en breve.",0;
 		sleep2 5000;
 		goto Onmvp_round9;
 	}
@@ -298,7 +298,7 @@ Onmvpdead9:
 	if($@mobmvp <= 0) {
 		stopnpctimer;
 		disablenpc "MVP Event Warper";
-		mapannounce "guild_vs1","Evento MVP: ¡Esta fue la Última Ronda!.",0;
+		mapannounce "guild_vs1","Evento MVP: ¡Esta fue la ultima Ronda!.",0;
 		sleep2 5000;
 		mapwarp "guild_vs1","prontera",156,191;
 		set $@mvp_event,0;
